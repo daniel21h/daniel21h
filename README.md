@@ -7,4 +7,4 @@ Tenho como objetivo tornar as tecnologias utilizadas por grandes empresas acess√
 
 ![Badge](https://img.shields.io/static/v1?label=Node.js&message=TS&color=19ccac)
 ![Badge](https://img.shields.io/static/v1?label=Next.js&message=TS&color=19ccac)
-![Badge](https://img.shields.io/static/v1?label=React Native&message=TS&color=19ccac)
+![Badge](https://img.shields.io/static/v1?label=ReactNative&message=TS&color=19ccac)
